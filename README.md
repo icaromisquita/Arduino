@@ -1,5 +1,6 @@
 # Arduino
-My bachelor final project using a Arduino MEGA 2560 - Made in 2017
+My bachelor final project using a Arduino MEGA 2560 to automatize the collection of Humidity and temperatured and store it in a SD Card. 
+The project was made in 2017 
 
 The function of this program is to obtain and save data from the LM35 (temperature), DHT 11 (humidity), and the LDR (brightness) sensors and save them to an SD card.
 
